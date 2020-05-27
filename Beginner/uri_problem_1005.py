@@ -1,6 +1,6 @@
 # Problem 1005 - URI
 
-# Input
+# Input 
 A = float(input())
 B = float(input())
 
