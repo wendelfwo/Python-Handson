@@ -1,10 +1,10 @@
 # Problem 1002 - URI
 
-# input
+# Input
 raio = float(input())
 
-# operations
+# Procedures
 area = (raio * raio) * 3.14159
 
-# output
+# Output
 print("A=%.4f" %(area))
