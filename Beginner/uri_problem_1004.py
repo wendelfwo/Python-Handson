@@ -1,6 +1,6 @@
 # Problem 1004 - URI
 
-# Input
+# Input 
 A = int(input())
 B = int(input())
 
