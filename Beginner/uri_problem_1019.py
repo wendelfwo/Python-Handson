@@ -1,5 +1,4 @@
 # Problem 1019 - URI
-
 # Input
 seconds = int(input())
 
